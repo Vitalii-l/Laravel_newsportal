@@ -1,0 +1,21 @@
+html, body {
+ background-color: #fff;
+ color: #636b6f;
+ font-family: 'Nunito', sans-serif; 
+ margin: 0;
+ }
+ .content {
+ text-align: center;
+ }
+ .title {
+ font-size: 84px;
+ } 
+.links > a {
+ color: #636b6f;
+ padding: 0 25px;
+ font-size: 13px;
+ font-weight: 600;
+ letter-spacing: .1rem;
+ text-decoration: none;
+ text-transform: uppercase;
+ }
